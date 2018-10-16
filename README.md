@@ -1,4 +1,4 @@
-# machine-learning-algorithms
+# Machine Learning Algorithms
 My personal machine learning projects without using machine learning libraries for educational purposes
 
 # IMDB Review sentiment analysis #
